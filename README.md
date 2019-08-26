@@ -19,7 +19,7 @@ OpenModelica (partial support starting with OpenModelica v1.11.0, e.g.serial por
 
 Prerequisites
 
-OpenModelica (>= v1.11.0) (https://www.openmodelica.org/download/download-linux)
+OpenModelica (>= v1.11.0) (https://www.openmodelica.org/download/download-windows)
 Modelica_DeviceDrivers (v1.5.1) (https://github.com/modelica/Modelica_DeviceDrivers/releases/tag/v1.5.1)
 
 Compile and Install
