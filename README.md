@@ -8,7 +8,7 @@ Library description
 
 The library is an open source Modelica package for real-time simulation of circuit designs involving Arduino platforms based on AVR Atmega328P MCUs.
 
-Main features:
+# Main features:
 
 Support for Windows.
 (Soft) real-time synchronization of a simulation.
@@ -54,7 +54,7 @@ $ omc --simCodeTarget=ExperimentalEmbeddedC runMDDAvr.mos $ avr-gcc -Os -std=c11
 
 For further information: Visit https://build.openmodelica.org/Documentation/Modelica_DeviceDrivers.html. Development and contribution
 
-Main developers:
+# Main developers:
 
 Manas Ranjan Das, FOSSSEE, IIT-Bombay
 
